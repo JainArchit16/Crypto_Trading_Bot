@@ -233,8 +233,6 @@ The bot was tested by:
 - Verifying positions and orders via Binance Testnet UI
 - Reviewing logs for correctness
 
-Screenshots and explanations are included in `report.pdf`.
-
 ---
 
 ## Notes on Binance Futures Behavior
